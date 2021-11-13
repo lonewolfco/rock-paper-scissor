@@ -1,4 +1,4 @@
-# Unit 03 Mini-Project: Rock, Paper, Scissors
+# Rock, Paper, Scissors
 
 Build a game using only JavaScript.
 
