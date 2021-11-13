@@ -1,0 +1,8 @@
+.image {
+    display: flex;
+}
+
+img {
+    margin: auto;
+    padding-top: 50px;
+}
